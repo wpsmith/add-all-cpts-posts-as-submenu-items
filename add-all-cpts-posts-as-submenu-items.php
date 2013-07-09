@@ -3,13 +3,13 @@
 **************************************************************************
 
 Plugin Name:  Add All CPT Posts As Submenu Items
-Plugin URI:   http://www.viper007bond.com/wordpress-plugins/add-descendants-as-submenu-items/
+Plugin URI:   http://wpsmith.net/
 Description:  Automatically all of a nav menu item's descendants as submenu items. Designed for pages but will work with any hierarchical post type or taxonomy.
-Version:      1.2.0
-Author:       Travis Smith(wpsmith), Alex Mills (Viper007Bond)
-Author URI:   http://www.viper007bond.com/
+Version:      1.0.0
+Author:       Travis Smith(wpsmith)
+Author URI:   http://wpsmith.net/
 
-Text Domain:  add-descendants-as-submenu-items
+Text Domain:  add-all-cpt-posts-as-submenu-items
 Domain Path:  /localization/
 
 **************************************************************************
